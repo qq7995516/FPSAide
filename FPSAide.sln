@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPSAide", "FPSAide.csproj", "{735A3D2D-2F44-4696-AF77-42D0DADF67BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{735A3D2D-2F44-4696-AF77-42D0DADF67BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735A3D2D-2F44-4696-AF77-42D0DADF67BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735A3D2D-2F44-4696-AF77-42D0DADF67BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735A3D2D-2F44-4696-AF77-42D0DADF67BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46A362B4-CF8F-4AAE-BFEC-D22E45E528B0}
+	EndGlobalSection
+EndGlobal
